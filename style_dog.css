@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #000000;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #ff770078;
+}
+
+img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+h2 { 
+    text-align: center;
+    cursor: pointer;
+}
